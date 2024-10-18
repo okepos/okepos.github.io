@@ -30,11 +30,11 @@
 
 		// Google Analytics code
 		(function() {
-			$.getScript('https://www.googletagmanager.com/gtag/js?id=G-JQC3CKKM9L', function() {
+			$.getScript('https://www.googletagmanager.com/gtag/js?id=G-342XP08H70', function() {
 				window.dataLayer = window.dataLayer || [];
 				function gtag(){ dataLayer.push(arguments); }
 				gtag('js', new Date());
-				gtag('config', 'G-JQC3CKKM9L');
+				gtag('config', 'G-342XP08H70');
 			});
 		})();
 	});
